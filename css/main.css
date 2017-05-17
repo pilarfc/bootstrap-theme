@@ -8,3 +8,10 @@
 /*.list-group-addon {
   position: absolute;
 }*/
+
+.menudrop + div ul {
+  position: static;
+  display: block;
+  margin-bottom: 5px;
+  clear: left;
+}
